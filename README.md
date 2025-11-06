@@ -1,4 +1,4 @@
-# 🌟 优秀开源 AI 工具合集（Awesome Open-Source AI Tools）
+# 🌟 优秀开源 AI 工具合集（Awesome AI Tools）
 
 > 💡 汇聚全球最具 影响力、创新性 与 落地价值 的开源 AI 工具与项目
 
