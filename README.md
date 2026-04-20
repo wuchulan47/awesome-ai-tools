@@ -87,6 +87,7 @@
 - [GitMCP](https://gitmcp.io/) — 将GitHub项目转换为LLM可访问的文档中心（文档接入与AI集成）
 - [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) — 将AI代理与Windows系统集成，实现文件和应用控制（系统级代理桥接）
 - [mcp-chrome](https://github.com/hangwin/mcp-chrome) — 让Claude等AI直接控制浏览器的MCP服务器（浏览器自动化）
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) — 浏览器侧 AI 编码工具栏，支持上下文捕获与确认后应用 diff（真实网页编辑）
 - [servers](https://github.com/modelcontextprotocol/servers) — MCP官方参考实现集合（协议标准与服务端实现）
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — 精选的优秀MCP服务器项目清单（MCP生态索引）
 - [♾️ Browser MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/browser_mcp_agent/) — 基于 MCP 协议的浏览器控制 AI 代理（浏览器自动化集成）
