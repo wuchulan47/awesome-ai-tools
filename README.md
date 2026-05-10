@@ -93,6 +93,7 @@
 - [🐙 GitHub MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/github_mcp_agent/) — 基于 MCP 协议的 GitHub 集成 AI 代理（代码仓库交互集成）
 - [📑 Notion MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/notion_mcp_agent) — 基于 MCP 协议的 Notion 集成 AI 代理（笔记工具交互集成）
 - [🌍 AI Travel Planner MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/ai_travel_planner_mcp_agent_team) — 基于 MCP 协议的旅行规划代理团队（旅行工具集成协同）
+- [NotFair](https://notfair.co) — 托管的 Google Ads MCP 服务器，让 Claude 等 AI 代理诊断、推荐并执行 Google Ads 投放调整（广告优化集成）
 
 ### 📚 **知识管理与数据分析**
 
