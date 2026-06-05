@@ -1,267 +1,378 @@
-# 🌟 优秀开源 AI 工具合集（Awesome AI Tools）
+# Awesome AI Tools [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
+
+<!-- [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/jaywcjlove/awesome-ai-tools/) -->
+
+[<img src="https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/ai_tools_banner.png">](https://github.com/AI-Tools-Inc/awesome-ai-tools)
+
+A curated list of awesome AI tools to help automate your workflows and 10x your output. Checkout [AI Tools](https://aitools.inc) for even more tools and recommendations.
+
+If you find this helpful, please give us a Star!
+
+## Contents
+
+- [AI Developer Tools](#ai-developer-tools)
+  - [AI Coding Assistants](#ai-coding-assistants)
+  - [AI Code Review Tools](#ai-code-review-tools)
+  - [AI SQL Tools](#ai-sql-tools)
+  - [AI ReGex Tools](#ai-regex-tools)
+  - [AI Image To Code Tools](#ai-image-to-code-tools)
+  - [AI Website Builders](#ai-website-builders)
+- [AI Marketing Tools](#ai-marketing-tools)
+  - [AI Copywriting Tools](#ai-copywriting-tools)
+  - [AI Content Repurposing Tools](#ai-content-repurposing-tools)
+  - [AI SEO Tools](#ai-seo-tools)
+  - [AI Landing Page Generators](#ai-landing-page-generators)
+  - [AI Email Marketing Tools](#ai-email-marketing-tools)
+  - [AI Infographic Generators](#ai-infographic-generators)
+  - [AI Influencer Generators](#ai-influencer-generators)
+  - [AI UGC Tools](#ai-ugc-tools)
+- [AI Sales Tools](#ai-sales-tools)
+  - [AI Sales Assistants](#ai-sales-assistants)
+  - [AI Prospecting & Cold Email Tools](#ai-prospecting---cold-email-tools)
+- [AI Image Tools](#ai-image-tools)
+  - [AI Image Generators](#ai-image-generators)
+  - [AI Image Editors](#ai-image-editors)
+  - [AI Photo Retouching Tools](#ai-photo-retouching-tools)
+  - [AI Avatar Generators](#ai-avatar-generators)
+  - [AI Profile Picture & Headshot Tools](#ai-profile-picture---headshot-tools)
+  - [AI Image Face Swap Tools](#ai-image-face-swap-tools)
+  - [AI Product Photo Tools](#ai-product-photo-tools)
+  - [AI Image Restoration Tools](#ai-image-restoration-tools)
+  - [AI Thumbnail Makers](#ai-thumbnail-makers)
+- [AI Video Tools](#ai-video-tools)
+  - [AI Video Generators](#ai-video-generators)
+  - [AI Video Editors](#ai-video-editors)
+  - [AI Video Clip & Short Form Video Generators](#ai-video-clip---short-form-video-generators)
+  - [AI Dubbing Tools](#ai-dubbing-tools)
+  - [AI Subtitles & Captions Generators](#ai-subtitles---captions-generators)
+  - [AI Talking Avatar Tools](#ai-talking-avatar-tools)
+  - [AI Animation Tools](#ai-animation-tools)
+- [AI Audio Tools](#ai-audio-tools)
+  - [AI Text To Speech Tools](#ai-text-to-speech-tools)
+  - [AI Audio Transcribers](#ai-audio-transcribers)
+  - [AI Audio Translators](#ai-audio-translators)
+  - [AI Voice Enhancers](#ai-voice-enhancers)
+  - [AI Music & Song Generators](#ai-music---song-generators)
+  - [AI Voice Changers & Voice Cloners](#ai-voice-changers---voice-cloners)
+- [AI Legal Tools](#ai-legal-tools)
+
+## AI Developer Tools
+
+### AI Coding Assistants
+
+- [GitHub Copilot](https://aitools.inc/tools/github-copilot) - Code smarter, build faster [![link]](https://github.com/features/copilot)
+- [Cursor](https://www.cursor.com/) - Supercharge your coding workflow [![link]](https://www.cursor.com/)
+- [tabnine](https://aitools.inc/tools/tabnine) - Supercharge your coding workflow [![link]](https://www.tabnine.com/)
+- [Codeium](https://aitools.inc/tools/codeium) - Elevate your code with intelligent testing [![link]](https://codeium.com/)
+- [Phind](https://aitools.inc/tools/phind) - From idea to code in record time [![link]](https://www.phind.com/search?home=true)
+- [Code Snippets AI](https://aitools.inc/tools/code-snippets-ai) - Revolutionize your coding workflow [![link]](https://codesnippets.ai/)
+- [Workik AI](https://aitools.inc/tools/workik-ai) - Code smarter with context-aware assistance [![link]](https://workik.com/)
+
+### AI Code Review Tools
+
+- [CodeRabbit](https://aitools.inc/tools/coderabbit) - Elevate code quality with intelligent feedback [![link]](https://coderabbit.ai/)
+- [Sourcery](https://aitools.inc/tools/sourcery) - Supercharge your code reviews [![link]](https://sourcery.ai/)
+- [Bito AI](https://aitools.inc/tools/bito-ai) - Supercharge your coding productivity [![link]](https://bito.ai/)
+- [CoderPlan](https://aitools.inc/tools/coderplan) - LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini and 100+ models. [![link]](https://coderplan.ai/)
+- [Metabob](https://aitools.inc/tools/metabob) - Uncover hidden errors in your codebase [![link]](https://metabob.com/)
+
+### AI SQL Tools
+
+- [AI2sql](https://aitools.inc/tools/ai2sql) - Transform natural language into powerful SQL [![link]](https://ai2sql.io/)
+- [BlazeSQL](https://aitools.inc/tools/blazesql) - Turn questions into data insights effortlessly [![link]](https://www.blazesql.com/)
+- [SQLAI.AI](https://aitools.inc/tools/sqlai-ai) - Transform your SQL workflow [![link]](https://www.sqlai.ai/)
+- [AI Query](https://aitools.inc/tools/ai-query) - Turn your words into powerful SQL [![link]](https://aiquery.co/)
+
+### AI ReGex Tools
+
+- [AutoRegex](https://aitools.inc/tools/autoregex) - Convert plain language to precise RegEx code [![link]](https://www.autoregex.xyz/)
+- [CodePal.AI](https://aitools.inc/tools/codepal-ai) - Quick snippets for any coding task [![link]](https://codepal.ai/)
+
+### AI Image To Code Tools
+
+- [Codejet](https://aitools.inc/tools/codejet) - Bridge the gap between design and development [![link]](https://www.codejet.ai/)
+- [Sketch2App](https://aitools.inc/tools/sketch2app) - Sketch your way to working software [![link]](https://sketch2app.io/)
+- [Fronty](https://aitools.inc/tools/fronty) - Transform mockups into live websites [![link]](https://fronty.com/)
+- [Codia AI](https://aitools.inc/tools/codia-ai) - Bridge the gap between design and development [![link]](https://codia.ai/)
+
+### AI Website Builders
+
+- [Builder.io](https://aitools.inc/tools/builder-io) - Transform your designs into responsive code [![link]](https://www.builder.io/)
+- [Zipwp](https://aitools.inc/tools/zipwp) - Create stunning websites in minutes [![link]](https://zipwp.com/)
+- [Teleporthq](https://aitools.inc/tools/teleporthq) - Design and deploy stunning websites effortlessly [![link]](https://teleporthq.io/)
+- [CodeDesign.ai](https://aitools.inc/tools/code-design-ai) - Design stunning websites in seconds [![link]](https://codedesign.ai/)
+- [10web](https://aitools.inc/tools/10web) - Transform your ideas into high-performance websites [![link]](https://10web.io/)
+- [Bubble](https://aitools.inc/tools/bubble) - Build powerful web apps visually [![link]](https://bubble.io/)
+- [Dorik](https://aitools.inc/tools/dorik) - Transform ideas into professional websites [![link]](https://dorik.com/)
 
-> 💡 汇聚全球最具 影响力、创新性 与 落地价值 的开源 AI 工具与项目
+## AI Marketing Tools
 
-> 🧭 全面覆盖从 模型、框架、智能体、自动化、RAG 系统 到 多模态创作与开发辅助 的核心生态
+### AI Copywriting Tools
 
-> 🚀 致力于为 开发者、科研人员、创业团队与企业 提供清晰的技术图谱与实践参考
+- [Japser](https://aitools.inc/tools/jasper-ai) - Craft compelling content at lightning speed [![link]](https://www.jasper.ai/)
+- [Quillbot](https://aitools.inc/tools/quillbot) - Write better, faster, and clearer [![link]](https://quillbot.com/)
+- [Anyword](https://aitools.inc/tools/anyword) - Create high-converting copy at scale [![link]](https://anyword.com/)
+- [Sudowrite](https://aitools.inc/tools/sudowrite) - Your AI writing partner [![link]](https://www.sudowrite.com)
+- [Rytr](https://aitools.inc/tools/rytr) - Your AI writing companion [![link]](https://rytr.me)
+- [Writesonic](https://aitools.inc/tools/writesonic) - Craft compelling content that drives results [![link]](https://writesonic.com/)
+- [Copy AI](https://aitools.inc/tools/copy-ai) - Supercharge your marketing copy [![link]](https://www.copy.ai/)
+- [Cohesive](https://aitools.inc/tools/cohesive) - Transform ideas into polished masterpieces [![link]](https://cohesive.so/)
 
-> 🌍 无论你是在构建下一代 AI 产品，还是探索大模型的边界，这里都是你发现灵感的起点
+### AI Content Repurposing Tools
 
-##
+- [Munch](https://aitools.inc/tools/munch) - Transform lengthy videos into viral clips [![link]](https://www.mcd3kdsrk.com/9HZJBK/2CTPL/)
+- [Castmagic](https://aitools.inc/tools/castmagic) - Transform your conversations into content gold [![link]](https://www.castmagic.io/)
+- [Vidyo AI](https://aitools.inc/tools/vidyo-ai) - Repurpose your content for social media success [![link]](https://vidyo.ai/)
+- [Flowjin](https://aitools.inc/tools/flowjin) - Repurpose long videos into captivating short clips [![link]](https://www.flowjin.com/)
+- [OpusClip](https://aitools.inc/tools/opusclip) - Repurpose your videos into social media gold [![link]](https://www.opus.pro/)
+- [Unifire AI](https://aitools.inc/tools/unifire-ai) - Transform one upload into endless formats [![link]](https://www.unifire.ai/)
+- [Vizard](https://aitools.inc/tools/vizard) - Transform lengthy content into captivating clips [![link]](https://vizard.ai/)
+- [Chopcast](https://aitools.inc/tools/chopcast) - Turn long videos into bite-sized social content [![link]](https://www.chopcast.io/)
+- [Wisecut AI](https://aitools.inc/tools/wisecut-ai) - Transform long videos into viral-worthy clips [![link]](https://www.wisecut.ai/)
+- [Flickify](https://aitools.inc/tools/flickify) - Effortlessly turn articles into engaging videos [![link]](https://www.flickify.com/)
+- [Powder](https://aitools.inc/tools/powder) - Turn long streams into viral-ready clips [![link]](https://powder.gg/)
 
-## 🧭 目录（Table of Contents）
+### AI SEO Tools
 
-- [🛍️ **智能电商与自动化客服**](#-**智能电商与自动化客服**)
-- [📱 **社交媒体与内容管理**](#社交媒体与内容管理)
-- [💼 **AI 助理与工作自动化**](#ai-助理与工作自动化)
-- [📈 **金融与数据分析**](#金融与数据分析)
-- [🧠 **AI 框架与多智能体平台**](#ai-框架与多智能体平台)
-- [🧰 **AI 工具与开发增强**](#ai-工具与开发增强)
-- [🎬 **视频生成与多媒体创作**](#视频生成与多媒体创作)
-- [🎨 **图像与可视化生成**](#图像与可视化生成)
-- [🧩 **模型上下文协议（MCP）生态**](#模型上下文协议mcp生态)
-- [📚 **知识管理与数据分析**](#知识管理与数据分析)
-- [⚙️ **系统与工具集成**](#系统与工具集成)
-- [🔍 **搜索与联网工具**](#搜索与联网工具)
-- [🧾 **个人与办公辅助**](#个人与办公辅助)
-- [🧠 **AI 代理与自动化系统**](#ai-代理与自动化系统)
-- [🎮 **游戏 AI 代理**](#游戏-ai-代理)
-- [👥 **多智能体团队**](#多智能体团队)
-- [🗣️ **语音 AI 代理与音频生成**](#语音-ai-代理与音频生成)
-- [🧠 **带记忆的 LLM 应用**](#带记忆的-llm-应用)
-- [🔗 **与特定工具交互的 LLM 应用**](#与特定工具交互的-llm-应用)
-- [🧑‍🏫 **AI 研发与教学工具**](#ai-研发与教学工具)
-- [🧱 **开发框架与 SDK**](#开发框架与-sdk)
-
-##
-
-
-### 🛍️ **智能电商与自动化客服**
+- [Machined](https://aitools.inc/tools/machined) - Elevate your SEO game with automated clusters [![link]](https://machined.ai/)
+- [BacklinkGPT](https://aitools.inc/tools/backlinkgpt) - Streamline your backlink acquisition process [![link]](https://www.backlinkgpt.com/)
+- [AISEO](https://aitools.inc/tools/aiseo) - Transform your ideas into engaging content [![link]](https://aiseo.ai/)
+- [Drafthorse AI](https://aitools.inc/tools/drafthorse-ai) - Your SEO content engine for rapid growth [![link]](https://www.drafthorseai.com/)
+- [RivalFlowAI](https://aitools.inc/tools/rivalflowai) - Transform existing content into ranking powerhouses [![link]](https://www.rivalflow.com/)
+- [Quattr](https://aitools.inc/tools/quattr) - Unlock your site's organic growth potential [![link]](https://www.quattr.com/)
+- [Writeseed](https://aitools.inc/tools/writeseed) - Transform your ideas into polished prose [![link]](https://writeseed.com/)
+- [SEO AI](https://aitools.inc/tools/seo-ai) - Unlock top search positions for your website [![link]](https://seo.ai/)
 
-- [XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) — 专为闲鱼平台打造的 AI 客服系统，支持多专家协同决策、智能议价、上下文感知对话（闲鱼AI客服、智能回复、自动值守）
-- [xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) — 闲鱼自动回复与管理系统，支持多用户与多账号管理（闲鱼自动回复、发货管理、智能对话）
-- [ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) — 闲鱼多任务实时监控与AI过滤系统（闲鱼商品监控、智能筛选、后台管理）
+### AI Landing Page Generators
 
-### 📱 **社交媒体与内容管理**
+- [Sitekick AI](https://aitools.inc/tools/sitekick-ai) - Create stunning landing pages in minutes [![link]](https://www.sitekick.ai/)
+- [MakeLanding AI](https://aitools.inc/tools/makelanding-ai) - Create high-quality landing pages in seconds [![link]](https://makelanding.ai)
 
-- [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) — 用 AI 管理与运行小红书账号的系统（小红书账号管理、自动化运营）
-- [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) — AI 音视频一键总结
-
-### 💼 **AI 助理与工作自动化**
-
-- [inbox-zero](https://github.com/elie222/inbox-zero) — 全球最佳 AI 邮件助理，自动清理与回复邮件（邮件智能分类、AI助理）
-- [get_jobs](https://github.com/loks666/get_jobs) — AI 找工作助手，支持多平台自动投递简历（自动投递简历、职位筛选）
-
-### 📈 **金融与数据分析**
-
-- [Kronos](https://github.com/shiyu-coder/Kronos) — 能看懂K线图的股价预测系统，基于全球交易所数据训练（股票K线分析、AI预测）
-
-### 🧠 **AI 框架与多智能体平台**
-
-- [joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) — 京东开源的多智能体平台，支持多任务协同（多Agent系统、通用AI代理框架）
-- [coze-studio](https://github.com/coze-dev/coze-studio) — 字节开源的AI代理开发平台，一体化可视化工具（AI Agent可视化创建、部署与调试）
-
-### 🧰 **AI 工具与开发增强**
-
-- [open-lovable](https://github.com/firecrawl/open-lovable) — 快速克隆任意网站并重建为现代 React 应用（网站克隆、React重构）
-- [PakePlus](https://github.com/Usagi-org/ai-goofish-monitor) — 将任意网页或前端项目转换为5M以下APP应用（Web转桌面/移动App、轻量打包）
-- [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) — AI提示词优化工具，支持多平台部署（Prompt优化、提示工程工具）
-- [CoderPlan](https://coderplan.ai) — LLM API 中转站，OpenAI 兼容接口，一行配置接入 Claude Code，按量付费
-
-
-### 🎬 **视频生成与多媒体创作**
-
-- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 一键AI生成高清短视频，从主题到文案、素材、字幕、配乐全自动合成（短视频自动生成）
-- [SkyReels-V1](https://github.com/SkyworkAI/SkyReels-V1) — 以人为本的视频基础模型，生成高质量视频且推理高效（视频生成模型）
-- [Cap](https://github.com/CapSoftware/Cap) — Loom 的开源替代品，用于录制、编辑和分享视频（视频录制与通讯）
-- [ttt-video-dit](https://github.com/test-time-training/ttt-video-dit) — 测试时间训练视频生成模型的 PyTorch 实现（视频生成研究模型）
-- [screenpipe](https://github.com/mediar-ai/screenpipe) — 捕获屏幕与音频、自动转录、摘要与日志生成（智能录屏与会议分析）
-
-### 🎨 **图像与可视化生成**
-
-- [DragGAN](https://github.com/XingangPan/DragGAN) — 用鼠标拖拽即可编辑图像形状与表情的AI工具（智能图像编辑）
-- [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) — AI证件照生成与背景抠图系统（图像识别与生成）
-- [mermaid](https://github.com/mermaid-js/mermaid) — 从文本生成流程图、时序图的开源引擎（可视化生成）
-
-### 🧩 **模型上下文协议（MCP）生态**
-
-- [GitMCP](https://gitmcp.io/) — 将GitHub项目转换为LLM可访问的文档中心（文档接入与AI集成）
-- [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) — 将AI代理与Windows系统集成，实现文件和应用控制（系统级代理桥接）
-- [mcp-chrome](https://github.com/hangwin/mcp-chrome) — 让Claude等AI直接控制浏览器的MCP服务器（浏览器自动化）
-- [servers](https://github.com/modelcontextprotocol/servers) — MCP官方参考实现集合（协议标准与服务端实现）
-- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — 精选的优秀MCP服务器项目清单（MCP生态索引）
-- [♾️ Browser MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/browser_mcp_agent/) — 基于 MCP 协议的浏览器控制 AI 代理（浏览器自动化集成）
-- [🐙 GitHub MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/github_mcp_agent/) — 基于 MCP 协议的 GitHub 集成 AI 代理（代码仓库交互集成）
-- [📑 Notion MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/notion_mcp_agent) — 基于 MCP 协议的 Notion 集成 AI 代理（笔记工具交互集成）
-- [🌍 AI Travel Planner MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/ai_travel_planner_mcp_agent_team) — 基于 MCP 协议的旅行规划代理团队（旅行工具集成协同）
-
-### 📚 **知识管理与数据分析**
-
-- [PandaWiki](https://github.com/chaitin/PandaWiki) — AI驱动的知识库系统，支持问答与搜索（智能知识管理）
-- [mindsdb](https://github.com/mindsdb/mindsdb) — AI分析与知识引擎，用于异构数据RAG分析（数据驱动AI分析）
-- [vanna](https://github.com/vanna-ai/vanna) — 与SQL数据库聊天，文本到SQL生成（数据问答与RAG）
-- [whodb](https://github.com/clidey/whodb) — AI可视化数据库查询与管理工具（可视化数据库助手）
-- [Chat2DB](https://github.com/CodePhiliaX/Chat2DB) — AI驱动的多数据库GUI客户端（SQL助手与数据库管理）
-- [🔥 Agentic RAG with Embedding Gemma](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/agentic_rag_embedding_gemma) — 结合 Gemma 嵌入模型的智能体驱动检索增强生成系统（增强检索与生成）
-- [🧐 Agentic RAG with Reasoning](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/agentic_rag_with_reasoning/) — 具备推理能力的智能体驱动检索增强生成系统（推理增强检索生成）
-- [📰 AI Blog Search (RAG)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/ai_blog_search/) — 基于 RAG 的 AI 博客搜索系统（博客内容检索）
-- [🔍 Autonomous RAG](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/autonomous_rag/) — 自主运行的检索增强生成系统（自主检索生成）
-- [🔄 Contextual AI RAG Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/contextualai_rag_agent/) — 支持上下文理解的 AI 检索增强生成代理（上下文感知检索生成）
-- [🔄 Corrective RAG (CRAG)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/corrective_rag/) — 具备纠正能力的检索增强生成系统（检索结果优化）
-- [🐋 Deepseek Local RAG Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/deepseek_local_rag_agent/) — 基于 Deepseek 模型的本地检索增强生成代理（本地检索生成）
-- [🤔 Gemini Agentic RAG](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/gemini_agentic_rag/) — 基于 Gemini 模型的智能体驱动检索增强生成系统（多模态检索生成）
-- [👀 Hybrid Search RAG (Cloud)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/hybrid_search_rag/) — 云端混合搜索（关键词 + 向量）检索增强生成系统（混合检索生成）
-- [🔄 Llama 3.1 Local RAG](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/llama3.1_local_rag/) — 基于 Llama 3.1 模型的本地检索增强生成系统（本地模型检索生成）
-- [🖥️ Local Hybrid Search RAG](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/local_hybrid_search_rag/) — 本地混合搜索检索增强生成系统（本地混合检索生成）
-- [🦙 Local RAG Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/local_rag_agent/) — 本地部署的检索增强生成代理（本地检索生成代理）
-- [🧩 RAG-as-a-Service](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/rag-as-a-service/) — 检索增强生成即服务系统（检索生成服务化）
-- [✨ RAG Agent with Cohere](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/rag_agent_cohere/) — 基于 Cohere 模型的检索增强生成代理（检索生成增强）
-- [⛓️ Basic RAG Chain](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/rag_chain/) — 基础检索增强生成链系统（基础检索生成流程）
-- [📠 RAG with Database Routing](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/rag_database_routing/) — 支持数据库路由的检索增强生成系统（多数据库检索生成）
-- [🖼️ Vision RAG](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/vision_rag/) — 支持图像内容的视觉检索增强生成系统（图像内容检索生成）
-
-### ⚙️ **系统与工具集成**
-
-- [exo](https://github.com/exo-explore/exo) — 将多设备统一成强大分布式GPU系统（分布式计算平台）
-- [n8n](https://github.com/n8n-io/n8n) — 开源AI自动化工作流平台，支持400+集成（工作流自动化）
-- [automa](https://github.com/AutomaApp/automa) — 浏览器端自动化扩展，可调度任务（无代码自动化）
-- [FileConverter](https://github.com/Tichau/FileConverter) — Windows右键菜单中的文件转换器（桌面文件处理）
-- [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) — 将纸质文档数字化为可搜索档案（文档数字化）
-- [Wox](https://github.com/Wox-launcher/Wox) — Windows快捷启动器（桌面效率工具）
-- [hugo](https://github.com/gohugoio/hugo) — 快速静态网站生成器（内容生成与网站构建）
-  
-### 🔍 **搜索与联网工具**
-
-- [scira](https://github.com/zaidmukaddam/scira) — 极简AI搜索引擎，Perplexity替代方案（智能搜索与引用）
-- [crawl4ai](https://github.com/unclecode/crawl4ai) — 开源AI爬虫与抓取工具（Web数据采集）
-
-### 🧾 **个人与办公辅助**
-
-- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) — 开源简历生成器，重视隐私与个性化（简历生成）
-
-### 🧠 **AI 代理与自动化系统**
-
-- [Agent-S](https://github.com/simular-ai/Agent-S) — 能像人类一样使用电脑的智能 GUI 代理框架（桌面自动化智能体）
-- [bytebot](https://github.com/bytebot-ai/bytebot) — 自托管 AI 桌面代理，能自动执行计算机任务（自主操作代理）
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) — AI 代理可执行人类开发者的各种操作（改代码、运行命令等）（开发者级 AI 助手）
-- [suna](https://github.com/kortix-ai/suna) — 构建、管理、训练复杂 AI 代理的综合平台（通用 AI 代理平台）
-- [MaxKB](https://github.com/1Panel-dev/MaxKB) — 企业级智能体平台，聚焦 AI 落地与低成本部署（企业 AI 代理平台）
-- [RD-Agent](https://github.com/microsoft/RD-Agent) — 微软推出，用于研发流程自动化的智能代理系统（R&D 智能体）
-- [🎙️ AI Blog to Podcast Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/ai_blog_to_podcast_agent/) — 将博客内容自动转换为播客的 AI 代理工具（博客转播客自动生成）
-- [❤️‍🩹 AI Breakup Recovery Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/ai_breakup_recovery_agent/) — 提供分手恢复情感支持与建议的 AI 代理（情感支持与恢复指导）
-- [📊 AI Data Analysis Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/ai_data_analysis_agent/) — 自动化数据分析与可视化的 AI 代理工具（数据分析与可视化）
-- [🩻 AI Medical Imaging Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/ai_medical_imaging_agent/) — 辅助医学影像分析与诊断的 AI 代理（医学影像分析）
-- [😂 AI Meme Generator Agent (Browser)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/ai_meme_generator_agent_browseruse/) — 浏览器端自动生成 meme 图片的 AI 代理（搞笑图片生成）
-- [🎵 AI Music Generator Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/ai_music_generator_agent/) — 自动生成音乐片段与配乐的 AI 代理（音乐创作与生成）
-- [🛫 AI Travel Agent (Local & Cloud)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/ai_travel_agent/) — 支持本地与云端部署的旅行规划 AI 代理（旅行方案规划）
-- [✨ Gemini Multimodal Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/gemini_multimodal_agent_demo/) — 基于 Gemini 模型的多模态（文本、图像等）处理 AI 代理（多模态内容处理）
-- [🌐 Local News Agent (OpenAI Swarm)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/local_news_agent_openai_swarm/) — 基于 OpenAI Swarm 的本地新闻聚合与分析代理（新闻聚合与分析）
-- [🔄 Mixture of Agents](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/mixture_of_agents/) — 融合多种代理能力的混合式 AI 代理系统（多代理能力协同）
-- [📊 xAI Finance Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/xai_finance_agent/) — 基于 xAI 模型的金融数据分析与建议代理（金融数据分析）
-- [🔍 OpenAI Research Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/opeani_research_agent/) — 基于 OpenAI 模型的研究辅助与信息检索代理（学术研究辅助）
-- [🕸️ Web Scrapping AI Agent (Local & Cloud)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/web_scrapping_ai_agent/) — 支持本地与云端部署的网页数据抓取 AI 代理（网页数据采集）
-- [🏚️ 🍌 AI Home Renovation Agent with Nano Banana](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent) — 结合 Nano Banana 的家居翻新规划与设计 AI 代理（家居翻新方案设计）
-- [🔍 AI Deep Research Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_deep_research_agent/) — 深度学术与行业研究的 AI 代理，支持复杂信息整合（深度研究与信息整合）
-- [🤝 AI Consultant Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_consultant_agent) — 提供专业领域咨询服务的 AI 代理（专业咨询服务）
-- [🏗️ AI System Architect Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_system_architect_r1/) — 辅助系统架构设计与规划的 AI 代理（系统架构设计）
-- [🎯 AI Lead Generation Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_lead_generation_agent/) — 自动挖掘与生成销售潜在客户的 AI 代理（销售线索挖掘）
-- [💰 AI Financial Coach Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_financial_coach_agent/) — 提供个人与企业财务指导的 AI 代理（财务规划与指导）
-- [🎬 AI Movie Production Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_movie_production_agent/) — 辅助电影制作流程（剧本、选角等）的 AI 代理（电影制作辅助）
-- [📈 AI Investment Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_investment_agent/) — 提供投资分析与决策建议的 AI 代理（投资分析与建议）
-- [🏋️‍♂️ AI Health & Fitness Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_health_fitness_agent/) — 个性化健康与健身计划制定的 AI 代理（健康管理与健身规划）
-- [🚀 AI Product Launch Intelligence Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/product_launch_intelligence_agent) — 产品发布全流程智能支持的 AI 代理（产品发布策略支持）
-- [🗞️ AI Journalist Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_journalist_agent/) — 自动撰写新闻稿件与报道的 AI 代理（新闻创作与撰写）
-- [🧠 AI Mental Wellbeing Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_mental_wellbeing_agent/) — 提供心理健康支持与疏导的 AI 代理（心理健康支持）
-- [📑 AI Meeting Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/single_agent_apps/ai_meeting_agent/) — 会议记录、纪要生成与任务分配的 AI 代理（会议辅助与管理）
-- [🧬 AI Self-Evolving Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_Self-Evolving_agent/) — 具备自我学习与进化能力的 AI 代理系统（自主进化与优化）
-- [🎧 AI Social Media News and Podcast Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/) — 社交媒体新闻聚合与播客内容生成的 AI 代理（内容聚合与创作）
-
-### 🎮 **游戏 AI 代理**
-
-- [🎮 AI 3D Pygame Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/autonomous_game_playing_agent_apps/ai_3dpygame_r1/) — 能自主玩 3D Pygame 游戏的 AI 代理（3D 游戏自动游玩）
-- [♜ AI Chess Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/autonomous_game_playing_agent_apps/ai_chess_agent/) — 自主下国际象棋的 AI 代理（国际象棋对战）
-- [🎲 AI Tic-Tac-Toe Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/autonomous_game_playing_agent_apps/ai_tic_tac_toe_agent/) — 自主玩井字棋的 AI 代理（井字棋对战）
-
-### 👥 **多智能体团队**
-
-- [🧲 AI Competitor Intelligence Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_competitor_intelligence_agent_team/) — 分析竞争对手情报的多智能体团队（竞争情报分析）
-- [💲 AI Finance Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_finance_agent_team/) — 协同处理金融任务的多智能体团队（金融协同处理）
-- [🎨 AI Game Design Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_game_design_agent_team/) — 协同设计游戏的多智能体团队（游戏设计协同）
-- [👨‍⚖️ AI Legal Agent Team (Cloud & Local)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team/) — 提供法律服务的多智能体团队（支持云端与本地部署）（法律服务协同）
-- [💼 AI Recruitment Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team/) — 协同完成招聘流程的多智能体团队（招聘流程协同）
-- [🏠 AI Real Estate Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_real_estate_agent_team) — 处理房地产相关业务的多智能体团队（房地产服务协同）
-- [👨‍💼 AI Services Agency (CrewAI)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_services_agency/) — 基于 CrewAI 的综合 AI 服务机构多智能体团队（综合服务协同）
-- [👨‍🏫 AI Teaching Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_teaching_agent_team/) — 协同开展教学活动的多智能体团队（教学活动协同）
-- [💻 Multimodal Coding Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_coding_agent_team/) — 协同完成代码开发的多模态智能体团队（代码开发协同）
-- [✨ Multimodal Design Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_design_agent_team/) — 协同完成设计任务的多模态智能体团队（设计任务协同）
-- [🎨 🍌 Multimodal UI/UX Feedback Agent Team with Nano Banana](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_uiux_feedback_agent_team/) — 结合 Nano Banana 的 UI/UX 反馈多智能体团队（设计反馈协同）
-- [🌏 AI Travel Planner Agent Team](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/) — 协同规划旅行的多智能体团队（旅行规划协同）
-
-### 🗣️ **语音 AI 代理与音频生成**
-
-- [🗣️ AI Audio Tour Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/voice_ai_agents/ai_audio_tour_agent/) — 提供音频导览服务的语音 AI 代理（语音导览服务）
-- [📞 Customer Support Voice Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/voice_ai_agents/customer_support_voice_agent/) — 处理客户支持的语音交互 AI 代理（语音客服支持）
-- [🔊 Voice RAG Agent (OpenAI SDK)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/voice_ai_agents/voice_rag_openaisdk/) — 基于 OpenAI SDK 的语音驱动检索增强生成代理（语音问答与检索）
-- [VibeVoice](https://github.com/microsoft/VibeVoice) — 文本生成多说话人对话音频（如播客）（多说话人语音生成）
-- [ChatTTS](https://github.com/2noise/ChatTTS) — 最接近真人语音的开源 TTS 系统（高保真语音合成）
-
-### 🧠 **带记忆的 LLM 应用**
-
-- [💾 AI ArXiv Agent with Memory](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_apps_with_memory_tutorials/ai_arxiv_agent_memory/) — 具备记忆功能的 arXiv 论文分析代理（学术论文记忆分析）
-- [🛩️ AI Travel Agent with Memory](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_apps_with_memory_tutorials/ai_travel_agent_memory/) — 具备记忆功能的旅行规划代理，记录用户偏好（个性化旅行记忆规划）
-- [💬 Llama3 Stateful Chat](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_apps_with_memory_tutorials/llama3_stateful_chat/) — 基于 Llama3 的有状态聊天应用，维持对话上下文（持续对话记忆）
-- [📝 LLM App with Personalized Memory](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_apps_with_memory_tutorials/llm_app_personalized_memory/) — 具备个性化记忆的 LLM 应用，适配用户习惯（个性化记忆服务）
-- [🗄️ Local ChatGPT Clone with Memory](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_apps_with_memory_tutorials/local_chatgpt_with_memory/) — 本地部署的带记忆功能的 ChatGPT 克隆应用（本地对话记忆）
-- [🧠 Multi-LLM Application with Shared Memory](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_apps_with_memory_tutorials/multi_llm_memory/) — 多 LLM 共享记忆的应用系统，协同处理任务（多模型共享记忆）
-
-### 🔗 **与特定工具交互的 LLM 应用**
-
-- [💬 Chat with GitHub (GPT & Llama3)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/chat_with_X_tutorials/chat_with_github/) — 与 GitHub 仓库交互的聊天应用，支持 GPT 和 Llama3 模型（代码仓库交互）
-- [📨 Chat with Gmail](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/chat_with_X_tutorials/chat_with_gmail/) — 与 Gmail 邮件系统交互的聊天应用（邮件管理与交互）
-- [📄 Chat with PDF (GPT & Llama3)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/chat_with_X_tutorials/chat_with_pdf/) — 与 PDF 文档交互的聊天应用，支持 GPT 和 Llama3 模型（PDF 文档问答）
-- [📚 Chat with Research Papers (ArXiv) (GPT & Llama3)](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/chat_with_X_tutorials/chat_with_research_papers/) — 与 ArXiv 研究论文交互的聊天应用，支持 GPT 和 Llama3 模型（学术论文问答）
-- [📝 Chat with Substack](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/chat_with_X_tutorials/chat_with_substack/) — 与 Substack 订阅内容交互的聊天应用（订阅内容问答）
-- [📽️ Chat with YouTube Videos](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/chat_with_X_tutorials/chat_with_youtube_videos/) — 与 YouTube 视频内容交互的聊天应用（视频内容问答）
-
-### 🧑‍🏫 **AI 研发与教学工具**
-
-- [analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) — Claude Code 系统分析与实现参考（多 Agent 系统研究）
-- [llm-course](https://github.com/mlabonne/llm-course) — 系统化 LLM 学习路线图与笔记（LLM 学习课程）
-- [spec-kit](https://github.com/github/spec-kit) — 帮助 AI 开发项目减少问答试错的开发辅助工具（AI 开发加速）
-- [Gemma 3 Fine-tuning](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_finetuning_tutorials/gemma3_finetuning/) — Google Gemma 3 模型微调教程与实现（大模型微调教学）
-- [Llama 3.2 Fine-tuning](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_finetuning_tutorials/llama3.2_finetuning/) — Meta Llama 3.2 模型微调教程与实现（大模型微调教学）
-
-### 🧱 **开发框架与 SDK**
-
-- [litellm](https://github.com/BerriAI/litellm) — 统一调用 100+ LLM API 的代理与 SDK（LLM 调用统一接口）
-- [supervision](https://github.com/roboflow/supervision) — 可复用的计算机视觉工具库（视觉检测与标注）
-- [Google ADK Crash Course](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/) — Google AI 代理开发工具包（ADK）速成教程（AI 代理框架学习）
-- [OpenAI Agents SDK Crash Course](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/openai_sdk_crash_course/) — OpenAI Agents SDK 速成教程（AI 代理框架学习）
-
-##
-
-## ⭐ Star 记录
-
-如果本项目对你有帮助，请点个 Star 支持我们！
-
-[![Star History Chart](https://api.star-history.com/svg?repos=wuchulan47/awesome-ai-tools&type=Date)](https://star-history.com/#wuchulan47/awesome-ai-tools&Date)
-
-##
-
-## 📢 关注我们，一起读懂 AI · 拥抱未来
-
-> AI项目工坊｜读懂AI，拥抱AI
-
-> 🔍 分享 Agent 应用实战、AI 源码深度解读、AI 前沿趋势分析
-
-> 🚀 让你从工具使用者，成长为 AI 时代的创造者
-
-> 💬 扫码关注公众号，解锁更多深度内容与实战案例
-![扫码_搜索联合传播样式-白色版](https://github.com/user-attachments/assets/5c57d735-858c-4449-8cd8-69a8831d5c0c)
-
-
-
-
-##
-> 📢 免责声明：所有项目均归其原作者所有，本仓库仅作精选索引，不主张任何代码所有权。
+### AI Email Marketing Tools
+
+- [HoppyCopy](https://aitools.inc/tools/hoppycopy) - Craft compelling emails in record time [![link]](https://www.hoppycopy.co/)
+- [Neural Newsletters](https://aitools.inc/tools/neural-newsletters) - Craft captivating newsletters in minutes [![link]](https://neuralnewsletters.com/)
+
+### AI Infographic Generators
+
+- [Infogram](https://aitools.inc/tools/infogram) - Transform your data into captivating visual stories [![link]](https://infogram.com/)
+- [Venngage](https://aitools.inc/tools/venngage) - Transform complex information into captivating visuals [![link]](https://venngage.com/)
+
+### AI Influencer Generators
+
+- [Glambase](https://aitools.inc/tools/glambase) - Create and monetize your virtual influencer [![link]](https://glambase.app/)
+
+### AI UGC Tools
+
+- [Uplifted AI](https://aitools.inc/tools/uplifted-ai) - Transform customers into your best marketers [![link]](https://www.uplifted.ai/)
+- [UGCscripts](https://aitools.inc/tools/ugcscripts) - Craft compelling UGC scripts effortlessly [![link]](https://www.ugcscripts.com/)
+
+## AI Sales Tools
+
+### AI Sales Assistants
+
+- [Tome](https://aitools.inc/tools/tome) - Close more deals [![link]](https://tome.app/)
+- [REP AI](https://aitools.inc/tools/rep-ai) - Transform window shoppers into loyal customers [![link]](https://www.hellorep.ai/)
+
+### AI Prospecting & Cold Email Tools
+
+- [Clay](https://aitools.inc/tools/clay) - Unlock your sales potential with data-driven outreach [![link]](https://www.clay.com/)
+- [Woodpecker](https://aitools.inc/tools/woodpecker) - Cold emails made easy [![link]](https://woodpecker.co/pp/aitools/home)
+- [Snov.io](https://aitools.inc/tools/snov-io) - Automate your sales process and connect with more leads [![link]](https://snov.io/)
+- [Smartwriter](https://aitools.inc/tools/smartwriter) - Automate personalized emails in seconds [![link]](https://www.smartwriter.ai/)
+- [Quicklines](https://aitools.inc/tools/quicklines) - Boost your email response rate [![link]](https://www.quicklines.ai/)
+- [Instantly](https://aitools.inc/tools/instantly) - Turn leads into clients with unlimited email outreach [![link]](https://instantly.ai/)
+- [Nureply](https://aitools.inc/tools/nureply) - Effortlessly send personalized emails [![link]](https://nureply.com/)
+- [Leadzen AI](https://aitools.inc/tools/leadzen-ai) - Accelerate your sales pipeline with precision [![link]](https://leadzen.ai/)
+
+## AI Image Tools
+
+### AI Image Generators
+
+- [Midjourney](https://aitools.inc/tools/midjourney) - Turn words into art instantly [![link]](https://midjourney.com)
+- [Stable Diffusion](https://aitools.inc/tools/stable-diffusion) - Transform text into photorealistic images [![link]](https://stability.ai/)
+- [Adobe Firefly](https://aitools.inc/tools/adobe-firefly) - Generate stunning visuals with ease [![link]](https://www.adobe.com/products/firefly.html)
+- [DALL-E 3](https://aitools.inc/tools/dall-e-3) - Transform your text into stunning images [![link]](https://openai.com/index/dall-e-3/)
+- [Magic Studio](https://aitools.inc/tools/magic-studio) - Create stunning images for any project [![link]](https://magicstudio.com)
+
+### AI Image Editors
+
+- [Lensa](https://aitools.inc/tools/lensa) - Transform your photos with one tap [![link]](https://prisma-ai.com/lensa)
+- [Dzine AI](https://aitools.inc/tools/dzine-ai) - Simple AI image editing [![link]](https://www.dzine.ai/)
+- [Adobe Photoshop](https://aitools.inc/tools/adobe-photoshop) - Turn your ideas into stunning visuals [![link]](https://www.adobe.com/products/photoshop.html)
+- [Playground AI](https://aitools.inc/tools/playground-ai) - Create and edit images like a pro [![link]](https://playground.com/)
+- [Pixlr](https://aitools.inc/tools/pixlr) - Create professional-grade images in minutes [![link]](https://pixlr.com/)
+- [Vance AI](https://aitools.inc/tools/vance-ai) - Remove backgrounds with precision and ease [![link]](https://vanceai.com/)
+
+### AI Photo Retouching Tools
+
+- [Picsart](https://aitools.inc/tools/picsart) - Supercharge your visual storytelling [![link]](https://picsart.com/)
+- [Cleanup.pictures](https://aitools.inc/tools/cleanup-pictures) - Erase unwanted elements from your photos [![link]](https://cleanup.pictures/)
+- [Remini](https://aitools.inc/tools/remini) - Bring faded images back to life [![link]](https://remini.ai/)
+- [BeautyPlus](https://aitools.inc/tools/beautyplus) - Transform your images with a tap [![link]](https://www.beautyplus.com/)
+
+### AI Avatar Generators
+
+- [Artflow AI](https://aitools.inc/tools/artflow-ai) - Bring your imagined personas to life [![link]](https://app.artflow.ai/)
+- [Photo AI](https://aitools.inc/tools/photo-ai) - Transform your selfies into stunning photos [![link]](https://photoai.com/)
+
+### AI Profile Picture & Headshot Tools
+
+- [Profile Picture AI](https://aitools.inc/tools/profile-picture-ai) - Create stunning profile pictures in seconds [![link]](https://www.profilepicture.ai/)
+- [Headshot Pro](https://aitools.inc/tools/headshot-pro) - Professional headshots without the studio [![link]](https://www.headshotpro.com/)
+- [ProPhotos](https://aitools.inc/tools/prophotos) - Transform selfies into career-boosting headshots [![link]](https://prophotos.ai/)
+
+### AI Image Face Swap Tools
+
+- [DeepSwap](https://aitools.inc/tools/deepswap) - Create face swaps in seconds [![link]](https://www.deepswap.ai)
+- [Pixlr](https://aitools.inc/tools/pixlr) - Create professional-grade images in minutes [![link]](https://pixlr.com/)
+
+### AI Product Photo Tools
+
+- [Virtulook](https://aitools.inc/tools/virtulook) - Transform your product photos into high-converting visuals [![link]](https://virtulook.wondershare.com/)
+- [Flair AI](https://aitools.inc/tools/flair-ai) - Generate stunning product photos with AI [![link]](https://flair.ai/)
+- [Caspa AI](https://aitools.inc/tools/caspa-ai) - Elevate your product photos with AI [![link]](https://www.caspa.ai/)
+- [Gemy AI](https://aitools.inc/tools/gemy-ai) - Create studio-quality product images instantly [![link]](https://gemy.ai/)
+- [Pebblely](https://aitools.inc/tools/pebblely) - Elevate your product imagery effortlessly [![link]](https://pebblely.com/)
+- [ProductAI](https://aitools.inc/tools/product-ai) - Transform ordinary photos into sales magnets [![link]](https://www.productai.photo/)
+- [Vmake AI](https://aitools.inc/tools/vmake-ai) - Elevate your product photos effortlessly [![link]](https://vmake.ai/)
+
+### AI Image Restoration Tools
+
+- [Palette.fm](https://aitools.inc/tools/palette-fm) - Transform black and white photos with lifelike hues [![link]](https://palette.fm)
+- [Deep Nostalgia](https://aitools.inc/tools/deep-nostalgia) - Breathe life into cherished family photos [![link]](https://www.myheritage.com/deep-nostalgia)
+- [Remini](https://aitools.inc/tools/remini) - Bring faded images back to life [![link]](https://remini.ai/)
+
+### AI Thumbnail Makers
+
+- [Thumbly](https://aitools.inc/tools/thumbly) - Skyrocket your video views with captivating thumbnails [![link]](https://www.thumbly.io/)
+- [Pikzels](https://aitools.inc/tools/pikzels) - Create thumbnails that captivate viewers [![link]](https://www.pikzels.com/)
+- [vidIQ](https://aitools.inc/tools/vidiq) - Accelerate your YouTube audience growth [![link]](https://vidiq.com/)
+
+## AI Video Tools
+
+### AI Video Generators
+
+- [Runway](https://aitools.inc/tools/runway) - Unleash impossible video creations [![link]](https://runwayml.com/)
+- [invideo AI](https://aitools.inc/tools/invideo-ai) - Create publish-ready videos with text prompts [![link]](https://invideo.io/ai/)
+- [Fliki](https://aitools.inc/tools/fliki) - Turn your text into captivating videos [![link]](https://fliki.ai/)
+- [Genmo AI](https://aitools.inc/tools/genmo-ai) - Bring your stories to life through video [![link]](https://www.genmo.ai/)
+- [Wonder Studio](https://aitools.inc/tools/wonder-studio) - Bring CG characters to life effortlessly [![link]](https://wonderdynamics.com/)
+- [Vidnoz](https://aitools.inc/tools/vidnoz) - Turn text into professional videos [![link]](https://www.vidnoz.com)
+- [Deepshot AI](https://aitools.inc/tools/deepshot-ai) - Reimagine video editing possibilities [![link]](https://www.deepshot.ai/)
+- [HeyGen](https://aitools.inc/tools/heygen) - Scale your video content effortlessly [![link]](https://www.heygen.com/)
+
+### AI Video Editors
+
+- [Descript](https://aitools.inc/tools/descript) - Edit videos and podcasts like a document [![link]](https://www.descript.com/)
+- [Veed IO](https://aitools.inc/tools/veed-io) - Elevate your content with easy video editing [![link]](https://www.veed.io/)
+- [Capcut](https://aitools.inc/tools/capcut) - Elevate your content with powerful editing tools [![link]](https://www.capcut.com/)
+- [Jupitrr AI Video Maker](https://aitools.inc/tools/jupitrr) - Supercharge your content with relevant B-roll [![link]](https://jupitrr.com/)
+- [Flickify](https://aitools.inc/tools/flickify) - Effortlessly turn articles into engaging videos [![link]](https://www.flickify.com/)
+- [FlexClip](https://aitools.inc/tools/flexclip) - Elevate your content with effortless video editing [![link]](https://www.flexclip.com/)
+- [Nova AI](https://aitools.inc/tools/nova-ai) - Transform raw footage into captivating content [![link]](https://wearenova.ai/)
+- [Clipchamp](https://aitools.inc/tools/clipchamp) - Transform your footage into captivating videos [![link]](https://clipchamp.com/)
+- [Vmaker AI](https://aitools.inc/tools/vmaker-ai) - Turn ordinary footage into captivating stories [![link]](https://www.vmaker.com/)
+- [HitPaw AI](https://aitools.inc/tools/hitpaw-ai) - Remove unwanted elements from your videos and images [![link]](https://www.hitpaw.com/)
+
+### AI Video Clip & Short Form Video Generators
+
+- [Syllaby](https://aitools.inc/tools/syllaby) - Transform ideas into viral social videos [![link]](https://syllaby.io/)
+- [ShortMake](https://aitools.inc/tools/shortmake) - Turn simple ideas into engaging short-form videos [![link]](https://app.shortmake.com/)
+- [Vsub](https://aitools.inc/tools/vsub) - Streamline your faceless channel creation [![link]](https://vsub.io/)
+- [Powder](https://aitools.inc/tools/powder) - Turn long streams into viral-ready clips [![link]](https://powder.gg/)
+- [Flowjin](https://aitools.inc/tools/flowjin) - Repurpose long videos into captivating short clips [![link]](https://www.flowjin.com/)
+- [Vizard](https://aitools.inc/tools/vizard) - Transform lengthy content into captivating clips [![link]](https://vizard.ai/)
+- [Chopcast](https://aitools.inc/tools/chopcast) - Turn long videos into bite-sized social content [![link]](https://www.chopcast.io/)
+- [Wisecut AI](https://aitools.inc/tools/wisecut-ai) - Transform long videos into viral-worthy clips [![link]](https://www.wisecut.ai/)
+- [OpusClip](https://aitools.inc/tools/opusclip) - Repurpose your videos into social media gold [![link]](https://www.opus.pro/)
+- [Submagic](https://aitools.inc/tools/submagic) - Unleash your content's viral potential [![link]](https://www.submagic.co/)
+
+### AI Dubbing Tools
+
+- [BlipCut](https://aitools.inc/tools/blipcut) - Break language barriers in your videos [![link]](https://videotranslator.blipcut.com/)
+- [DupDub](https://aitools.inc/tools/dupdub) - Transform your ideas into professional-quality media [![link]](https://www.dupdub.com/)
+- [Rask AI](https://aitools.inc/tools/rask-ai) - Amplify your message across cultures [![link]](https://www.rask.ai/)
+
+### AI Subtitles & Captions Generators
+
+- [Captions](https://aitools.inc/tools/captions) - Elevate your video content effortlessly [![link]](https://www.captions.ai/)
+- [Simon Says AI](https://aitools.inc/tools/simon-says-ai) - Transcribe and translate in record time [![link]](https://www.simonsaysai.com/)
+
+### AI Talking Avatar Tools
+
+- [Synthesia](https://aitools.inc/tools/synthesia) - Generate studio-quality videos from text [![link]](https://www.synthesia.io)
+- [Creative Reality Studio (D-ID)](https://aitools.inc/tools/creative-reality-studio-d-id) - Engage your audience with lifelike avatars [![link]](https://www.d-id.com/creative-reality-studio/)
+
+### AI Animation Tools
+
+- [Wonder Studio](https://aitools.inc/tools/wonder-studio) - Bring CG characters to life effortlessly [![link]](https://wonderdynamics.com/)
+- [DeepMotion](https://aitools.inc/tools/deepmotion) - Transform videos into lifelike 3D animations [![link]](https://www.deepmotion.com/)
+- [Animaker](https://aitools.inc/tools/animaker) - Transform your story into captivating animations [![link]](https://www.animaker.com/)
+- [Krikey AI](https://aitools.inc/tools/krikey-ai) - Bring your 3D ideas to life in minutes [![link]](https://www.krikey.ai/)
+- [GoEnhance AI](https://aitools.inc/tools/goenhance-ai) - Transform ordinary videos into extraordinary animations [![link]](https://www.goenhance.ai/)
+
+## AI Audio Tools
+
+### AI Text To Speech Tools
+
+- [ElevenLabs](https://aitools.inc/tools/elevenlabs) - Create lifelike AI voices in minutes [![link]](https://elevenlabs.io/)
+- [LOVO AI](https://aitools.inc/tools/lovo-ai) - Natural AI voices at your fingertips [![link]](https://lovo.ai/)
+- [Respeecher](https://aitools.inc/tools/respeecher) - AI-powered voice transformation [![link]](https://www.respeecher.com/)
+- [Speechify](https://aitools.inc/tools/speechify) - Listen to anything, anytime, anywhere [![link]](https://speechify.com/)
+- [WellSaid](https://aitools.inc/tools/wellsaid) - Create professional voiceovers with natural AI voices [![link]](https://wellsaidlabs.com/)
+- [Murf AI](https://aitools.inc/tools/murf-ai) - Instantly convert text into lifelike audio [![link]](https://murf.ai/)
+- [Audyo](https://aitools.inc/tools/audyo) - Transform text into captivating speech [![link]](https://www.audyo.ai/)
+
+### AI Audio Transcribers
+
+- [Happy Scribe](https://aitools.inc/tools/happy-scribe) - Transcribe audio and add subtitles effortlessly [![link]](https://www.happyscribe.com/)
+- [Castmagic](https://aitools.inc/tools/castmagic) - Transform your conversations into content gold [![link]](https://www.castmagic.io/)
+- [Shownotes](https://aitools.inc/tools/shownotes) - Convert spoken words into actionable insights [![link]](https://shownotes.io/)
+- [Speechwrite](https://aitools.inc/tools/speechwrite) - Increase your productivity with efficient dictation [![link]](https://www.speechwrite.com/)
+- [Sonix AI](https://aitools.inc/tools/sonix-ai) - Simple transcription with instant speech-to-text conversion [![link]](https://sonix.ai/)
+- [Turboscribe](https://aitools.inc/tools/turboscribe) - Turn your meetings, podcasts, and videos into text [![link]](https://turboscribe.ai/)
+
+### AI Audio Translators
+
+- [Happy Scribe](https://aitools.inc/tools/happy-scribe) - Transcribe audio and add subtitles effortlessly [![link]](https://www.happyscribe.com/)
+- [Wordly](https://aitools.inc/tools/wordly) - Break language barriers at your events [![link]](https://www.wordly.ai/)
+- [Wavel AI](https://aitools.inc/tools/wavel-ai) - Break language barriers in your videos [![link]](https://wavel.ai/)
+
+### AI Voice Enhancers
+
+- [Adobe Podcast](https://aitools.inc/tools/adobe-podcast) - Make your podcast sound crisp and professional [![link]](https://podcast.adobe.com/)
+- [Krisp](https://aitools.inc/tools/krisp) - Transform chaotic calls into focused conversations [![link]](https://krisp.ai/)
+- [Resound](https://aitools.inc/tools/resound) - Transform raw recordings into polished podcasts [![link]](https://www.resound.fm/)
+- [Cleanvoice](https://aitools.inc/tools/cleanvoice) - Elevate your podcast's audio quality [![link]](https://cleanvoice.ai/)
+
+### AI Music & Song Generators
+
+- [Suno](https://aitools.inc/tools/suno) - Turn your ideas into songs [![link]](https://suno.com/)
+- [Music AI](https://aitools.inc/tools/music-ai) - Unlock your music's potential with AI [![link]](https://music.ai/)
+- [Udio](https://aitools.inc/tools/udio) - Transform text into your own music [![link]](https://www.udio.com/)
+- [Beatoven](https://aitools.inc/tools/beatoven) - Craft music that fits your story [![link]](https://www.beatoven.ai/)
+- [Loudly AI](https://aitools.inc/tools/loudly-ai) - AI music creation at your fingertips [![link]](https://www.loudly.com/)
+- [Riffusion](https://aitools.inc/tools/riffusion) - Compose unique songs from simple prompts [![link]](https://www.riffusion.com/)
+- [Boomy](https://aitools.inc/tools/boomy) - Create, stream, and earn from original songs [![link]](https://boomy.com/)
+- [Jammable](https://aitools.inc/tools/jammable) - Train custom voices and create musical duets [![link]](https://www.jammable.com/)
+- [Uppbeat](https://aitools.inc/tools/uppbeat) - Elevate your videos with hassle-free music [![link]](https://uppbeat.io/)
+- [Soundraw](https://aitools.inc/tools/soundraw) - Generate royalty-free music [![link]](https://soundraw.io/)
+
+### AI Voice Changers & Voice Cloners
+
+- [Altered](https://aitools.inc/tools/altered-ai) - Transform your voice using AI [![link]](https://www.altered.ai/)
+- [FineShare](https://aitools.inc/tools/fineshare) - Craft personalized voiceovers effortlessly [![link]](https://www.fineshare.com/)
+- [ElevenLabs](https://aitools.inc/tools/elevenlabs) - Create lifelike AI voices in minutes [![link]](https://elevenlabs.io/)
+- [Respeecher](https://aitools.inc/tools/respeecher) - AI-powered voice transformation [![link]](https://www.respeecher.com/)
+- [Uberduck](https://aitools.inc/tools/uberduck) - Turn your text into captivating audio [![link]](https://www.uberduck.ai/)
+
+## AI Legal Tools
+
+- [DoNotPay](https://aitools.inc/tools/do-not-pay) - Fight back against corporate giants [![link]](https://donotpay.com/)
+- [Harvey AI](https://aitools.inc/tools/harvey-ai) - AI-driven solutions for legal professionals [![link]](https://www.harvey.ai/)
+- [Paxton AI](https://aitools.inc/tools/paxton-ai) - Improve your legal research [![link]](https://www.paxton.ai/)
+- [vLex](https://aitools.inc/tools/vlex) - AI-powered platform for legal research [![link]](https://vlex.com/)
+- [AI Lawyer](https://aitools.inc/tools/ai-lawyer-pro) - Effortlessly automate legal tasks [![link]](https://ailawyer.pro/)
+
+[link]: https://raw.githubusercontent.com/AI-Tools-Inc/Awesome-AI-Tools/main/link_icon.svg "Link Icon"
