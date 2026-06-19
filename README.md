@@ -93,6 +93,7 @@
 - [🐙 GitHub MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/github_mcp_agent/) — 基于 MCP 协议的 GitHub 集成 AI 代理（代码仓库交互集成）
 - [📑 Notion MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/notion_mcp_agent) — 基于 MCP 协议的 Notion 集成 AI 代理（笔记工具交互集成）
 - [🌍 AI Travel Planner MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/ai_travel_planner_mcp_agent_team) — 基于 MCP 协议的旅行规划代理团队（旅行工具集成协同）
+- [NotFair](https://github.com/nowork-studio/NotFair) — 开源 Claude Code 技能集，覆盖 SEO、GEO、Google Ads 与 Meta Ads，通过 Google Ads MCP、Meta Ads MCP、Google Search Console MCP 和 Google Analytics (GA4) MCP 接入实时数据（营销智能体技能）
 
 ### 📚 **知识管理与数据分析**
 
