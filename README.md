@@ -89,6 +89,7 @@
 - [mcp-chrome](https://github.com/hangwin/mcp-chrome) — 让Claude等AI直接控制浏览器的MCP服务器（浏览器自动化）
 - [servers](https://github.com/modelcontextprotocol/servers) — MCP官方参考实现集合（协议标准与服务端实现）
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — 精选的优秀MCP服务器项目清单（MCP生态索引）
+- [SandBase CLI](https://github.com/sandbaseai/cli) — Apache-2.0 开源命令行工具，一条命令为 Cursor、Claude Code、Codex、Gemini CLI 等 17+ 客户端配置 MCP 桥接，统一发现和调用 2,000+ AI 工具与 200+ 模型（MCP 工具聚合与客户端配置）
 - [♾️ Browser MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/browser_mcp_agent/) — 基于 MCP 协议的浏览器控制 AI 代理（浏览器自动化集成）
 - [🐙 GitHub MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/github_mcp_agent/) — 基于 MCP 协议的 GitHub 集成 AI 代理（代码仓库交互集成）
 - [📑 Notion MCP Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/mcp_ai_agents/notion_mcp_agent) — 基于 MCP 协议的 Notion 集成 AI 代理（笔记工具交互集成）
