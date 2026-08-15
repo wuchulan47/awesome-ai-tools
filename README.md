@@ -61,6 +61,7 @@
 
 - [joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) — 京东开源的多智能体平台，支持多任务协同（多Agent系统、通用AI代理框架）
 - [coze-studio](https://github.com/coze-dev/coze-studio) — 字节开源的AI代理开发平台，一体化可视化工具（AI Agent可视化创建、部署与调试）
+- [chat-system](https://github.com/ysy0915/chat-system) — 开源多模型协作与智能辩论平台，Multi-Agent并行工作流+RAG+知识图谱（多智能体平台、多模型辩论、自动RAG）
 
 ### 🧰 **AI 工具与开发增强**
 
