@@ -61,6 +61,7 @@
 
 - [joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) — 京东开源的多智能体平台，支持多任务协同（多Agent系统、通用AI代理框架）
 - [coze-studio](https://github.com/coze-dev/coze-studio) — 字节开源的AI代理开发平台，一体化可视化工具（AI Agent可视化创建、部署与调试）
+- [Orkas](https://github.com/Orkas-AI/Orkas) — 开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话协调专业 Agent 完成复杂工作
 
 ### 🧰 **AI 工具与开发增强**
 
