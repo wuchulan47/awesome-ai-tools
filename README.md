@@ -46,6 +46,7 @@
 ### 📱 **社交媒体与内容管理**
 
 - [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) — 用 AI 管理与运行小红书账号的系统（小红书账号管理、自动化运营）
+- [BulkPublish](https://app.bulkpublish.com/docs) — 面向 AI Agent 的社交媒体内容创建、改写、批量排程、跨平台发布与数据分析服务，支持 API 与 MCP（社交媒体运营、内容发布自动化）
 - [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) — AI 音视频一键总结
 
 ### 💼 **AI 助理与工作自动化**
