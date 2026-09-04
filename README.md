@@ -137,6 +137,7 @@
 ### 🧾 **个人与办公辅助**
 
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) — 开源简历生成器，重视隐私与个性化（简历生成）
+- [ResumeAI](https://withresumeai.com/) — 免费 ATS 检查器 + State of ATS 2026 数据集（738 家雇主，704 门户核实）；可选付费求职者排行榜仅为展示位（非录用保证）
 
 ### 🧠 **AI 代理与自动化系统**
 
