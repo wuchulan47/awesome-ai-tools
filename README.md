@@ -80,6 +80,7 @@
 
 - [DragGAN](https://github.com/XingangPan/DragGAN) — 用鼠标拖拽即可编辑图像形状与表情的AI工具（智能图像编辑）
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) — AI证件照生成与背景抠图系统（图像识别与生成）
+- [Photoreal AI](https://photorealistic-ai.com/zh) — 浏览器里对已有照片做局部重绘、换背景、去水印（图像编辑）
 - [mermaid](https://github.com/mermaid-js/mermaid) — 从文本生成流程图、时序图的开源引擎（可视化生成）
 
 ### 🧩 **模型上下文协议（MCP）生态**
