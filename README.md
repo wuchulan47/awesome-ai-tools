@@ -146,6 +146,7 @@
 - [suna](https://github.com/kortix-ai/suna) — 构建、管理、训练复杂 AI 代理的综合平台（通用 AI 代理平台）
 - [MaxKB](https://github.com/1Panel-dev/MaxKB) — 企业级智能体平台，聚焦 AI 落地与低成本部署（企业 AI 代理平台）
 - [RD-Agent](https://github.com/microsoft/RD-Agent) — 微软推出，用于研发流程自动化的智能代理系统（R&D 智能体）
+- [Solgrok](https://github.com/LMajster/sgrok) — 24/7 Solana creator-ops AI agent for $SGROK on Bags.fm (autonomous promo + creator fee ops)
 - [🎙️ AI Blog to Podcast Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/ai_blog_to_podcast_agent/) — 将博客内容自动转换为播客的 AI 代理工具（博客转播客自动生成）
 - [❤️‍🩹 AI Breakup Recovery Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/ai_breakup_recovery_agent/) — 提供分手恢复情感支持与建议的 AI 代理（情感支持与恢复指导）
 - [📊 AI Data Analysis Agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/ai_data_analysis_agent/) — 自动化数据分析与可视化的 AI 代理工具（数据分析与可视化）
