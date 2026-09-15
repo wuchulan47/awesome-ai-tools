@@ -236,6 +236,7 @@
 - [supervision](https://github.com/roboflow/supervision) — 可复用的计算机视觉工具库（视觉检测与标注）
 - [Google ADK Crash Course](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/) — Google AI 代理开发工具包（ADK）速成教程（AI 代理框架学习）
 - [OpenAI Agents SDK Crash Course](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/openai_sdk_crash_course/) — OpenAI Agents SDK 速成教程（AI 代理框架学习）
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ##
 
