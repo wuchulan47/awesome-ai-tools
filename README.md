@@ -75,6 +75,7 @@
 - [Cap](https://github.com/CapSoftware/Cap) — Loom 的开源替代品，用于录制、编辑和分享视频（视频录制与通讯）
 - [ttt-video-dit](https://github.com/test-time-training/ttt-video-dit) — 测试时间训练视频生成模型的 PyTorch 实现（视频生成研究模型）
 - [screenpipe](https://github.com/mediar-ai/screenpipe) — 捕获屏幕与音频、自动转录、摘要与日志生成（智能录屏与会议分析）
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — MIT 开源、本地优先的 CLI 与 MCP 视频工具包，通过可编辑的 plan.json 时间线编排和剪辑视频。
 
 ### 🎨 **图像与可视化生成**
 
