@@ -15,6 +15,7 @@
 - [🛍️ **智能电商与自动化客服**](#-**智能电商与自动化客服**)
 - [📱 **社交媒体与内容管理**](#社交媒体与内容管理)
 - [💼 **AI 助理与工作自动化**](#ai-助理与工作自动化)
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — **Free AI toolbox** for image generation (FLUX), text and video. No sign-up, no API key. MIT licensed. [Source](https://github.com/kaketiti/magickit)
 - [📈 **金融与数据分析**](#金融与数据分析)
 - [🧠 **AI 框架与多智能体平台**](#ai-框架与多智能体平台)
 - [🧰 **AI 工具与开发增强**](#ai-工具与开发增强)
