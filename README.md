@@ -74,7 +74,7 @@
 - [SkyReels-V1](https://github.com/SkyworkAI/SkyReels-V1) — 以人为本的视频基础模型，生成高质量视频且推理高效（视频生成模型）
 - [Cap](https://github.com/CapSoftware/Cap) — Loom 的开源替代品，用于录制、编辑和分享视频（视频录制与通讯）
 - [ttt-video-dit](https://github.com/test-time-training/ttt-video-dit) — 测试时间训练视频生成模型的 PyTorch 实现（视频生成研究模型）
-- [screenpipe](https://github.com/mediar-ai/screenpipe) — 捕获屏幕与音频、自动转录、摘要与日志生成（智能录屏与会议分析）
+- [screenpipe](https://github.com/screenpipe/screenpipe) - 在本地采集并检索屏幕文字与音频历史，通过 MCP 或本地 API 为 AI 提供工作上下文；源码可用，采用 Screenpipe Commercial License（非 OSI 开源许可）；启用云端 AI、转录、同步或集成时，相关内容可能离开设备。
 
 ### 🎨 **图像与可视化生成**
 
