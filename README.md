@@ -67,6 +67,7 @@
 - [open-lovable](https://github.com/firecrawl/open-lovable) — 快速克隆任意网站并重建为现代 React 应用（网站克隆、React重构）
 - [PakePlus](https://github.com/Usagi-org/ai-goofish-monitor) — 将任意网页或前端项目转换为5M以下APP应用（Web转桌面/移动App、轻量打包）
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) — AI提示词优化工具，支持多平台部署（Prompt优化、提示工程工具）
+- [agent-qa](https://github.com/vostride/agent-qa) — Web、Android 和 iOS 自然语言测试工具，具备持久记忆引擎、经验证的自我改进与 MCP 接口（[官网](https://vostride.com)；FSL-1.1-ALv2）
 
 ### 🎬 **视频生成与多媒体创作**
 
