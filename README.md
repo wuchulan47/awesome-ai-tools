@@ -70,6 +70,7 @@
 
 ### 🎬 **视频生成与多媒体创作**
 
+- [Ideoy](https://ideoy.ai) - Freemium AI meme & image-to-video generator: turn images/memes into short viral videos.
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 一键AI生成高清短视频，从主题到文案、素材、字幕、配乐全自动合成（短视频自动生成）
 - [SkyReels-V1](https://github.com/SkyworkAI/SkyReels-V1) — 以人为本的视频基础模型，生成高质量视频且推理高效（视频生成模型）
 - [Cap](https://github.com/CapSoftware/Cap) — Loom 的开源替代品，用于录制、编辑和分享视频（视频录制与通讯）
