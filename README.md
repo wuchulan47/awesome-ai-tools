@@ -75,6 +75,7 @@
 - [Cap](https://github.com/CapSoftware/Cap) — Loom 的开源替代品，用于录制、编辑和分享视频（视频录制与通讯）
 - [ttt-video-dit](https://github.com/test-time-training/ttt-video-dit) — 测试时间训练视频生成模型的 PyTorch 实现（视频生成研究模型）
 - [screenpipe](https://github.com/mediar-ai/screenpipe) — 捕获屏幕与音频、自动转录、摘要与日志生成（智能录屏与会议分析）
+- [Breatic](https://github.com/orime-org/breatic) — 源码公开实时协作创作工作空间，将共享文档、AI 画布和项目 Agent 放在同一项目内，支持团队共同创作与人工审阅（协作创作工具）
 
 ### 🎨 **图像与可视化生成**
 
