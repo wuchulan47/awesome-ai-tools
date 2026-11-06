@@ -76,6 +76,8 @@
 - [ttt-video-dit](https://github.com/test-time-training/ttt-video-dit) — 测试时间训练视频生成模型的 PyTorch 实现（视频生成研究模型）
 - [screenpipe](https://github.com/mediar-ai/screenpipe) — 捕获屏幕与音频、自动转录、摘要与日志生成（智能录屏与会议分析）
 
+- **[Cyanvid](https://cyanvid.com/?utm_source=wuchulan47-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks)** - AI video generator: create from text or images with clear credit quotes up front.
+- **[Barz Studio](https://barzvideo.com/?utm_source=wuchulan47-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks)** - Free browser editor for beat-reactive rap lyric videos (bring your own track).
 ### 🎨 **图像与可视化生成**
 
 - [DragGAN](https://github.com/XingangPan/DragGAN) — 用鼠标拖拽即可编辑图像形状与表情的AI工具（智能图像编辑）
