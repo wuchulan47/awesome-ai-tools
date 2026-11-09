@@ -80,6 +80,7 @@
 
 - [DragGAN](https://github.com/XingangPan/DragGAN) — 用鼠标拖拽即可编辑图像形状与表情的AI工具（智能图像编辑）
 - [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) — AI证件照生成与背景抠图系统（图像识别与生成）
+- [iGen3D](https://github.com/0xa11y/igen3d-ai-3d-model-generator) — AI 3D 建模与 3D 打印 STL/GLB 生成平台，支持文本/图像快速转三维模型与切片预览（[官网](https://igen3d.com/)）
 - [mermaid](https://github.com/mermaid-js/mermaid) — 从文本生成流程图、时序图的开源引擎（可视化生成）
 
 ### 🧩 **模型上下文协议（MCP）生态**
