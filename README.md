@@ -64,6 +64,7 @@
 
 ### 🧰 **AI 工具与开发增强**
 
+- [zhongzhuancha-relay-audit](https://github.com/abcabc354/zhongzhuancha-relay-audit) — 对 OpenAI 兼容中转做协议面与可用性体检的开源 CLI（协议审计、脱敏报告、PyPI 包）。
 - [open-lovable](https://github.com/firecrawl/open-lovable) — 快速克隆任意网站并重建为现代 React 应用（网站克隆、React重构）
 - [PakePlus](https://github.com/Usagi-org/ai-goofish-monitor) — 将任意网页或前端项目转换为5M以下APP应用（Web转桌面/移动App、轻量打包）
 - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) — AI提示词优化工具，支持多平台部署（Prompt优化、提示工程工具）
