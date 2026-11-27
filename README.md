@@ -236,6 +236,7 @@
 - [supervision](https://github.com/roboflow/supervision) — 可复用的计算机视觉工具库（视觉检测与标注）
 - [Google ADK Crash Course](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/google_adk_crash_course/) — Google AI 代理开发工具包（ADK）速成教程（AI 代理框架学习）
 - [OpenAI Agents SDK Crash Course](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_framework_crash_course/openai_sdk_crash_course/) — OpenAI Agents SDK 速成教程（AI 代理框架学习）
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 
 ##
 
