@@ -230,6 +230,9 @@
 - [Gemma 3 Fine-tuning](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_finetuning_tutorials/gemma3_finetuning/) — Google Gemma 3 模型微调教程与实现（大模型微调教学）
 - [Llama 3.2 Fine-tuning](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_llm_apps/llm_finetuning_tutorials/llama3.2_finetuning/) — Meta Llama 3.2 模型微调教程与实现（大模型微调教学）
 
+
+- [Whiteboard AI Tutor](https://github.com/molly554/whiteboard-ai-tutor) - Open-source whiteboard lesson playback and a structured drawing protocol with model-comparison benchmarks; new lessons require user-provided API keys.
+
 ### 🧱 **开发框架与 SDK**
 
 - [litellm](https://github.com/BerriAI/litellm) — 统一调用 100+ LLM API 的代理与 SDK（LLM 调用统一接口）
