@@ -76,6 +76,9 @@
 - [ttt-video-dit](https://github.com/test-time-training/ttt-video-dit) — 测试时间训练视频生成模型的 PyTorch 实现（视频生成研究模型）
 - [screenpipe](https://github.com/mediar-ai/screenpipe) — 捕获屏幕与音频、自动转录、摘要与日志生成（智能录屏与会议分析）
 
+
+- [ViralForge](https://github.com/fendouai/ViralForge) - Open-source CLI and MCP tools for local short-video structure analysis, editable VFML projects, and costed variant scripts.
+
 ### 🎨 **图像与可视化生成**
 
 - [DragGAN](https://github.com/XingangPan/DragGAN) — 用鼠标拖拽即可编辑图像形状与表情的AI工具（智能图像编辑）
